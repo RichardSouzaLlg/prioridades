@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', function() {
             kitchen: 'Itens da Cozinha',
             bedroom: 'Itens do Quarto',
             bathroom: 'Itens do Banheiro',
-            laundry: 'Itens da Lavanderia'
+            laundry: 'Itens para reforma'
         };
         currentRoom.textContent = roomTitles[room];
     }
